@@ -1,0 +1,2 @@
+class Chor < ApplicationRecord
+end
